@@ -1,0 +1,9 @@
+.header__info-mobile_open {
+  display: flex;
+}
+
+@media screen and (min-width: 767px) {
+  .header__info-mobile {
+    display: none;
+  }
+}

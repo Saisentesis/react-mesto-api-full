@@ -1,0 +1,23 @@
+.header__checkbox {
+  display: none;
+}
+
+.header__checkbox:checked + .header__label span:first-child {
+  position: relative;
+  margin: 0;
+  transform: rotate(45deg);
+  top: 16px;
+}
+
+.header__checkbox:checked + .header__label span:nth-child(2) {
+  position: relative;
+  margin: 0;
+  transform: rotate(45deg);
+  top: 13px;
+}
+.header__checkbox:checked + .header__label span:last-child {
+  position: relative;
+  margin: 0;
+  transform: rotate(135deg);
+  top: 10px;
+}

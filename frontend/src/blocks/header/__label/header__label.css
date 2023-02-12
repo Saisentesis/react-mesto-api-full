@@ -1,0 +1,25 @@
+.header__label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  right: 30px;
+}
+
+@media screen and (min-width: 768px) {
+  .header__label {
+    display: none;
+  }
+}
+
+.header__label span {
+  width: 24px;
+  height: 3px;
+  margin-bottom: 9px;
+  background-color: #FFF;
+  transition-duration: .25s;
+}
+
+.header__label span:last-child {
+  margin-bottom: 0;
+}

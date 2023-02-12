@@ -1,0 +1,18 @@
+<svg width="130" height="130" viewBox="0 0 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4453_202)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M65 118C96.4802 118 122 92.4802 122 61C122 29.5198 96.4802 4 65 4C33.5198 4 8 29.5198 8 61C8 92.4802 33.5198 118 65 118ZM65 121C98.1371 121 125 94.1371 125 61C125 27.8629 98.1371 1 65 1C31.8629 1 5 27.8629 5 61C5 94.1371 31.8629 121 65 121ZM60.0503 61.707L41.6655 43.3223L47.3224 37.6654L65.7071 56.0502L83.3848 38.3726L89.0416 44.0294L71.364 61.707L88.3346 78.6776L82.6777 84.3345L65.7071 67.3639L48.0294 85.0416L42.3726 79.3848L60.0503 61.707Z" fill="#FD0707"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M65 118C96.4802 118 122 92.4802 122 61C122 29.5198 96.4802 4 65 4C33.5198 4 8 29.5198 8 61C8 92.4802 33.5198 118 65 118ZM65 121C98.1371 121 125 94.1371 125 61C125 27.8629 98.1371 1 65 1C31.8629 1 5 27.8629 5 61C5 94.1371 31.8629 121 65 121ZM60.0503 61.707L41.6655 43.3223L47.3224 37.6654L65.7071 56.0502L83.3848 38.3726L89.0416 44.0294L71.364 61.707L88.3346 78.6776L82.6777 84.3345L65.7071 67.3639L48.0294 85.0416L42.3726 79.3848L60.0503 61.707Z" stroke="black"/>
+</g>
+<defs>
+<filter id="filter0_d_4453_202" x="0.5" y="0.5" width="129" height="129" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4453_202"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4453_202" result="shape"/>
+</filter>
+</defs>
+</svg>

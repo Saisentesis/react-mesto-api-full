@@ -1,0 +1,16 @@
+.element__heart {
+    background: none;
+    border: 0;
+    background-image: url(../../../images/heart-disabled.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 22px;
+    height: 19px;
+    transition: opacity 0.5s linear;
+    padding: 0;
+  }
+  
+  .element__heart:hover {
+    cursor: pointer;
+    opacity: 0.5;
+  }
